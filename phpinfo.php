@@ -4,6 +4,8 @@
 <?php
 phpinfo();
 //おっ
+
+//nurupo
 ?>
 
 </body>
