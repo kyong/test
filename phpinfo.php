@@ -3,6 +3,7 @@
 <body>
 <?php
 phpinfo();
-?>
 //おっ
+?>
+
 </body>
