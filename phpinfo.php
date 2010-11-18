@@ -6,6 +6,8 @@ phpinfo();
 //おっ
 
 //nurupo
+
+//gaxtu
 ?>
 
 </body>
